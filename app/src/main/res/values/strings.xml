@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KTroom</string>
+
+    <string name="name_edit_hint">Enter your name:</string>
+    <string name="last_name_edit_hint">Enter your surname:</string>
+    <string name="add_user">Add User</string>
+</resources>
